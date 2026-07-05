@@ -6,7 +6,7 @@ Software Engineer building AI-powered products and modern web applications.
 
 ## Building
 
-###  [AlphaLens](ample-motivation-production-8e88.up.railway.app)
+###  [AlphaLens](https://ample-motivation-production-8e88.up.railway.app)
 
 AI-powered equity research platform that transforms SEC filings, earnings calls, financial statements and market news into institutional-style research reports.
 
