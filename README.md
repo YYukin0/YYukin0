@@ -6,7 +6,7 @@ Software Engineer building AI-powered products and modern web applications.
 
 ## Building
 
-###  AlphaLens
+###  [AlphaLens](ample-motivation-production-8e88.up.railway.app)
 
 AI-powered equity research platform that transforms SEC filings, earnings calls, financial statements and market news into institutional-style research reports.
 
@@ -14,7 +14,7 @@ FastAPI · React · PostgreSQL · Redis · Docker · LLMs
 
 ---
 
-###  TNT Carp Fishing
+###  [TNT Carp Fishing](https://tntcarpfishing.vercel.app/)
 
 Modern B2B platform for an international fishing tackle manufacturer.
 
