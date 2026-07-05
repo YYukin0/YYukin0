@@ -21,3 +21,12 @@ Modern B2B platform for an international fishing tackle manufacturer.
 Built with a headless CMS architecture featuring product management, inquiry workflow, SEO optimization and cloud deployment.
 
 React 19 · Directus · PostgreSQL · Google Cloud
+
+
+## 🤝 Let's Connect
+
+📫 **Email**  
+[wl2811@nyu.edu](mailto:wl2811@nyu.edu)
+
+💼 **LinkedIn**  
+[linkedin.com/in/winter-li-b1ba92260](https://www.linkedin.com/in/winter-li-b1ba92260/)
