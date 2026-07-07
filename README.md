@@ -30,3 +30,7 @@ React 19 · Directus · PostgreSQL · Google Cloud
 
 💼 **LinkedIn**  
 [linkedin.com/in/winter-li-b1ba92260](https://www.linkedin.com/in/winter-li-b1ba92260/)
+
+**cal**
+[https://cal.com/weite-li-sgdj1y/meet?overlayCalendar=true]
+
