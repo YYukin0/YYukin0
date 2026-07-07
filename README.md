@@ -26,11 +26,11 @@ React 19 · Directus · PostgreSQL · Google Cloud
 ## 🤝 Let's Connect
 
 📫 **Email**  
-[wl2811@nyu.edu](mailto:wl2811@nyu.edu)
+[lwtznb@gmail.com](mailto:lwtznb@gmail.com)
 
 💼 **LinkedIn**  
 [linkedin.com/in/winter-li-b1ba92260](https://www.linkedin.com/in/winter-li-b1ba92260/)
 
 **cal**
-[https://cal.com/weite-li-sgdj1y/meet?overlayCalendar=true]
+[Cal](https://cal.com/weite-li-sgdj1y/meet?overlayCalendar=true)
 
