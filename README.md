@@ -1,36 +1,31 @@
 # Winter Li 👋
 
-Software Engineer building AI-powered products and modern web applications.
+Software engineer building AI-powered products and modern web applications.
 
 ---
 
 ## Building
 
-###  [AlphaLens](https://ample-motivation-production-8e88.up.railway.app)
+### [AlphaLens](https://ample-motivation-production-8e88.up.railway.app)
 
-AI-powered equity research platform that transforms SEC filings, earnings calls, financial statements and market news into institutional-style research reports.
+AI-powered equity research platform that turns SEC filings, earnings calls, financial statements, and market news into institutional-style research reports.
 
-FastAPI · React · PostgreSQL · Redis · Docker · LLMs
+**Stack:** FastAPI · React · PostgreSQL · Redis · Docker · LLMs
 
 ---
 
-###  [TNT Carp Fishing](https://tntcarpfishing.vercel.app/)
+### [TNT Carp Fishing](https://tntcarpfishing.vercel.app/)
 
-Modern B2B platform for an international fishing tackle manufacturer.
+Modern B2B platform for an international fishing tackle manufacturer — headless CMS, product catalog, inquiry workflow, SEO, and cloud deployment.
 
-Built with a headless CMS architecture featuring product management, inquiry workflow, SEO optimization and cloud deployment.
+**Stack:** React 19 · Directus · PostgreSQL · Google Cloud
 
-React 19 · Directus · PostgreSQL · Google Cloud
+---
 
+## Let's Connect
 
-## 🤝 Let's Connect
+📫 **Email** — [lwtznb@gmail.com](mailto:lwtznb@gmail.com)
 
-📫 **Email**  
-[lwtznb@gmail.com](mailto:lwtznb@gmail.com)
+💼 **LinkedIn** — [linkedin.com/in/winter-li-b1ba92260](https://www.linkedin.com/in/winter-li-b1ba92260/)
 
-💼 **LinkedIn**  
-[linkedin.com/in/winter-li-b1ba92260](https://www.linkedin.com/in/winter-li-b1ba92260/)
-
-**cal**
-[Cal](https://cal.com/weite-li-sgdj1y/meet?overlayCalendar=true)
-
+📅 **Calendar** — [Book a call](https://cal.com/weite-li-sgdj1y/meet?overlayCalendar=true)
